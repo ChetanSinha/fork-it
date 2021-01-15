@@ -1,2 +1,2 @@
 # fork-it
-A web app
+A recipe search web app using vanilla JavaScipt with ES6 syntax.
