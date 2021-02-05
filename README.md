@@ -2,4 +2,4 @@
 A recipe search web app using vanilla JavaScipt with ES6 syntax.
 
 
-Deployed: https://just-fork-it.netlify.app/
+Deployed on netlify: https://just-fork-it.netlify.app/
